@@ -274,3 +274,9 @@ section > div{
     .interet{
         flex: 0 1 25%;
     }
+.social :hover{
+background-color: yellow;
+}
+ h2 :hover{
+    background-color: gainsboro;
+}
